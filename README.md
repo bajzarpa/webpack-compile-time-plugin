@@ -6,6 +6,14 @@ A really simple plugin, with only one purpose. Show the compilation time in the 
 
 There is no options yet.
 
+## Installation
+
+`npm install webpack-compile-time-plugin`
+ 
+ or
+ 
+`yarn add webpack-compile-time-plugin`
+
 ## Usage
 
 ```javascript
