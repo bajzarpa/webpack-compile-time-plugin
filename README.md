@@ -1,6 +1,6 @@
 # Webpack Compile Time Plugin
 
-A really simple plugin, with only one prupose. Show the compilation time in the console.
+A really simple plugin, with only one purpose. Show the compilation time in the console.
 
 ## Options
 
