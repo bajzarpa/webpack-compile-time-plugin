@@ -1,0 +1,30 @@
+{
+  "name": "webpack-compile-time-plugin",
+  "version": "1.0.0",
+  "description": "Simple plugin to write out the compilation time into the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "no tests yet :("
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bajzarpa/webpack-compile-time-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "compile",
+    "time",
+    "measure"
+  ],
+  "author": "Arpad Bajzath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bajzarpa/webpack-compile-time-plugin/issues"
+  },
+  "homepage": "https://github.com/bajzarpa/webpack-compile-time-plugin#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "moment": "^2.18.1"
+  }
+}
