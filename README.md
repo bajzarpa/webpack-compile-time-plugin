@@ -16,3 +16,7 @@ plugins: [
   new CompileTimePlugin()
 ]
 ```
+
+## Screenshot
+
+![Image of theplugin](./screen.png)
